@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "751198925",
+    "project_id": "auth-otp-6b04f",
+    "storage_bucket": "auth-otp-6b04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751198925:android:0cc7358ebb2680692f7f84",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751198925-9hjhgdoma2u12ock4mic1eu4ope6jovg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7lNMkTYW3QYh0NsT3FO68vfMM_dw3nPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751198925-9hjhgdoma2u12ock4mic1eu4ope6jovg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
